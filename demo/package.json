@@ -1,0 +1,25 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shengshiqi/electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shengshiqi/electron/issues"
+  },
+  "homepage": "https://github.com/shengshiqi/electron#readme",
+  "dependencies": {
+    "electron": "^8.0.1",
+    "timer.js": "^1.0.4"
+  }
+}
